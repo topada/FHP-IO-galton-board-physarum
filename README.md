@@ -31,7 +31,7 @@ Once those two procedures intersect another oat has been captured by the physaru
 
 ![slime mold](http://topada.hercules.uberspace.de/d_fhp/io/doc/02_slime_mold/io_2_4.png)
 
-### What you'll need
+##What you'll need
 * [**Processing 2.2.1**](https://processing.org/)
 * [**Python Mode for Processing**](https://github.com/jdf/processing.py#python-mode-for-processing) by Johnatan Feinberg
 * [**OpenCV for Processing**](https://github.com/atduskgreg/opencv-processing
