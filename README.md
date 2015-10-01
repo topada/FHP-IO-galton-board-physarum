@@ -31,6 +31,14 @@ Once those two procedures intersect another oat has been captured by the physaru
 
 ![slime mold](http://topada.hercules.uberspace.de/d_fhp/io/doc/02_slime_mold/io_2_4.png)
 
+### What you'll need
+* [**Processing 2.2.1**](https://processing.org/)
+* [**Python Mode for Processing**](https://github.com/jdf/processing.py#python-mode-for-processing) by Johnatan Feinberg
+* [**OpenCV for Processing**](https://github.com/atduskgreg/opencv-processing
+) by Greg Borenstein
+
+To run the Slime Tracker, copy the repos processing sketch. Be sure to switch to python mode once installed. The OpenCV library for processing is required. 
+
 ##What's it for?
 I consider this project to be highly experimental and I don't expect any outcome in a higher sense. This tiny experiment taught me vast knowledge about raspberryPi and computer vision. 
 
